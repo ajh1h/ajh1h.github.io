@@ -1,0 +1,29 @@
+body {
+    background-color:#000000;
+    font-size:14px;
+    font-family: 'Verdana', 'Arial', sans-serif;
+    text-align: left;
+    color:#fcfcfc;
+  }
+  
+  html {
+      overflow-y: show;
+  }
+  
+  a:link, a:visited
+  {
+    text-decoration:none;
+    color:#858585;
+  }
+  
+  a:active, a:hover
+  {
+    text-decoration:underline;
+     color:#598683;
+  }
+  
+  btn a:active, a:hover
+  {
+    text-decoration: none;
+     color:#598683;
+  }
